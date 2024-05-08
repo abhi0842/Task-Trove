@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Task Trove</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_pass">Enter your password</string>
+    <string name="re_enter_your_pass">Retype your password</string>
+    <string name="already_registered">Already Registered !!</string>
+    <string name="hello_blank_fragment">hello</string>
+    <string name="not_registered">Not Registered !!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="Sign_up">Sign-Up</string>
+    <string name="Sign_in">Sign In</string>
+    <string name="type_your_task">type</string>
+
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719670531542",
+    "project_id": "task-trove-3a5e8",
+    "storage_bucket": "task-trove-3a5e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719670531542:android:78158dc47e46630d9c8077",
+        "android_client_info": {
+          "package_name": "com.example.tasktrove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJq2knzJPDc_AVxzlN3sXrbPIDvTqE1u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
